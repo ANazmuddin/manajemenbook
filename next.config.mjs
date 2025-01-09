@@ -1,5 +1,5 @@
-// next.config.js
-module.exports = {
+// next.config.mjs
+export default {
     async redirects() {
       return [
         {
